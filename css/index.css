@@ -1,0 +1,68 @@
+
+#icon {
+	width: 200px;
+	height: 150px;
+	float: right;
+	z-index: 100;
+	position: absolute;
+	top: 0px;
+	right: 80px;
+}
+.big-font {
+	font-size: 2em;
+}
+.mid-font {
+	font-size: 1.2em;
+}
+body {
+
+}
+#test {
+	background-color: #FFFFFF;
+}
+
+#canvas_container {
+
+	margin-left: 10px;
+	margin-right: auto;
+}
+#canvas {
+	height: 300px;
+	width: 400px;
+	-moz-box-shadow: 3px 3px 5px #888;
+	-webkit-box-shadow: 3px 3px 5px #888;
+	box-shadow: 3px 3px 5px #888;
+}
+.slider {
+	margin: auto;
+	width: 200px;
+}
+
+.amount {
+	width: 25px;
+	margin: 2px;
+}
+#control {
+	width: 100%;
+	height: 100%;
+	float: left;
+	background-color: #FFFFFF
+}
+
+#control dl {
+	margin: 15px auto;
+	width: 100px;
+	background-color: #6495ED;
+	padding: 5px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px
+}
+
+#control dt {
+	font-size: 12px;
+	color: #fff
+}
+:li {
+	display: block;
+}
+
